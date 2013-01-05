@@ -168,6 +168,9 @@ INSTALLED_APPS = [
     
     # project
     "symposion_project.proposals",
+
+    # gunicorn
+    "gunicorn"
 ]
 
 FIXTURE_DIRS = [
